@@ -1,0 +1,6 @@
+{
+  "name": "Imaan Relief & Development Foundation",
+  "description": "Humanitarian relief and sustainable development platform featuring community programs, field projects, impact tracking, donations, volunteer mobilization, and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
